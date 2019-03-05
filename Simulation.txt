@@ -1,0 +1,38 @@
+What is a simulation?
+- A computational model of a system being designed
+- operating environment used for various what if scenarios 
+
+Why use simulations
+-Time advantage
+^guide decisions and test without needing to develope a full end product
+-Repeatable
+^same parameters and see differences, what factors are we forgetting?
+-Visual aid
+^Allows to see the problem in an image, brings it to life
+-Versatile
+^Can apply to any field in any context
+
+Steps for developing a simulation
+1. Problem Formulation
+2. Setting Objectives
+3. Model Conceptualization (Art vs Science)
+4. Data Collection
+5. Model Translation (Programming)
+6. Verification and Validation
+7. Experimental designed
+8. Runs and Analysis
+9. Documentation and Reporting
+
+Applications of simulations
+-Waiting/service
+-Inventory
+-Production and Manufacturing
+-Capital Investment and Budgeting
+-Logistics
+-Services
+-Environmental Resource Analysis
+
+What is Prototyping
+-Developing a physical model
+-Cheaper and less refined
+-Better visualize the system

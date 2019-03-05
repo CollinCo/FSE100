@@ -1,0 +1,31 @@
+-serial number ending in N1, N2, N3 is the old style gyro
+^requires special command series 
+^Has to be told it's the old version
+
+Initial heading (lets go with North)
+
+-These are stepper motors so the number of motor pulses/steps
+-convert degrees into the number of steps
+^apply the ratio to get the bot to turn however much you need 
+^make sure it can correct itself after the initial turn
+
+-initialize brick, gyro, clutch
+^two scripts, one to initialize and one method: that way we don't recalibrate everytime 
+
+Lab Requirements 
+- Summary of what we did 
+- Updated schedule showing what we completed (copy paste with completion notes)
+
+
+First Success
+-Took the initial turn plus 31 adjustments, adjustment ended after reaching an angle change of 0 degrees
+
+Second Try
+-Took the initial turn plus 14 adjustments, adjustment ended after reaching an angle change of 0 degrees
+
+Third Try
+- Took initial 90 followed by 8 adjustments, adjustment ended after reaching an angle change of 0 degrees
+
+Fourth Try
+- Final adjustments were made to our step/degree ratio and we got down to an initial turn plus 1 adjustment
+- 87  first followed by 3 Second
